@@ -1,0 +1,21 @@
+[ 2024-10-25 11:07:53,955 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-25 11:07:54,049 ] 224 werkzeug - INFO -  * Debugger PIN: 130-453-766
+[ 2024-10-25 11:09:36,625 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Oct/2024 11:09:36] "GET / HTTP/1.1" 200 -
+[ 2024-10-25 11:09:36,937 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Oct/2024 11:09:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-10-25 11:11:15,249 ] 82 root - INFO - Entered initiate_data_ingestion method of Data_Ingestion class
+[ 2024-10-25 11:11:15,250 ] 54 root - INFO - exporting data from mongodb
+[ 2024-10-25 11:11:15,584 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Oct/2024 11:11:15] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[ 2024-10-25 11:11:16,008 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Oct/2024 11:11:16] "GET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-10-25 11:11:16,055 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Oct/2024 11:11:16] "GET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-10-25 11:11:16,928 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Oct/2024 11:11:16] "GET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-10-25 11:11:17,151 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Oct/2024 11:11:17] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-10-25 11:11:26,784 ] 82 root - INFO - Entered initiate_data_ingestion method of Data_Ingestion class
+[ 2024-10-25 11:11:26,785 ] 54 root - INFO - exporting data from mongodb
+[ 2024-10-25 11:11:27,004 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Oct/2024 11:11:27] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[ 2024-10-25 11:11:27,122 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Oct/2024 11:11:27] "GET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-10-25 11:11:27,130 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Oct/2024 11:11:27] "GET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-10-25 11:11:27,560 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Oct/2024 11:11:27] "GET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-10-25 11:11:27,827 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Oct/2024 11:11:27] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-10-25 11:11:58,592 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Oct/2024 11:11:58] "GET /predict HTTP/1.1" 200 -
+[ 2024-10-25 11:11:58,917 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Oct/2024 11:11:58] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[ 2024-10-25 11:11:58,922 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Oct/2024 11:11:58] "GET /static/css/style.css HTTP/1.1" 200 -
